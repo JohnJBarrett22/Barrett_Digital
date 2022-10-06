@@ -4859,7 +4859,6 @@ figcaption {
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  max-width: 590px;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
@@ -4958,6 +4957,7 @@ figcaption {
 }
 
 .footer-menu-wrapper {
+  display: block;
   margin-right: 40px;
 }
 
