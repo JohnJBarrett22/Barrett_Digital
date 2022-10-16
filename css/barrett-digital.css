@@ -2813,6 +2813,10 @@ figcaption {
   padding-top: 32px;
   padding-bottom: 32px;
   background-color: #fff;
+  opacity: 1;
+  background-clip: border-box;
+  -webkit-text-fill-color: inherit;
+  mix-blend-mode: normal;
 }
 
 .header-logo {
